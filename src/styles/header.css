@@ -1,6 +1,5 @@
 .header-container {
   display: flex;
-  border: 1px solid black;
   justify-content: space-between;
   font-family: system-ui, "Segoe UI", Roboto, sans-serif;
   padding: 10px;

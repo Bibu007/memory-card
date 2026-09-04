@@ -2,19 +2,14 @@
   display: grid;
   grid-template-columns: repeat(6, auto);
   grid-template-rows: repeat(2, auto);
-  border: 1px solid black;
   gap: 10px;
   padding: 10px;
 }
 
 .card {
-  border: 1px solid black;
   height: 300px;
   width: 225px;
   overflow: hidden;
   display: flex;
   place-content: center;
-}
-
-image {
 }
