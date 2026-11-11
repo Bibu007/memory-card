@@ -14,6 +14,9 @@ The objective of the game is to test and improve your memory by selecting cards 
 
 This project focuses on building an interactive React application while exploring state management, component lifecycle, API integration, and handling asynchronous operations.
 
+<img width="1470" height="775" alt="Screenshot 2026-10-02 at 3 10 42 PM" src="https://github.com/user-attachments/assets/c3346db1-6091-4c46-ae6a-f1c8ff292acc" />
+
+
 ## Features
 
 - Interactive card-based gameplay
@@ -97,6 +100,8 @@ While building this project, I gained experience with:
 ## Acknowledgements
 
 - [The Odin Project](https://www.theodinproject.com/) for the project inspiration and learning resources.
+
+
 
 Self note:
 
